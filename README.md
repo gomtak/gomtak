@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...
 NFT Market Place
 
 - 🌱 I’m currently learning ...
@@ -10,6 +10,7 @@ MSA
 
 - 📫 How to reach me: ...
 tak6831@gmail.com
+
 
 ![tak6831's github stats](https://github-readme-stats.vercel.app/api?username=tak6831&theme=dracula&show_icons=true&hide=stars)
 
