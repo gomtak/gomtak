@@ -1,15 +1,16 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-NFT Market Place
+  - NFT Market Place
 
 - 🌱 I’m currently learning ...
-WebFlux
-Kafka
-MSA
+  - WebFlux
+  - Kafka
+  - MSA
 
 - 📫 How to reach me: ...
-tak6831@gmail.com
+  - tak6831@gmail.com
+  - <a href="mailto:tak6831@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tak6831@gmail.com"/></a>
 
 
 ![tak6831's github stats](https://github-readme-stats.vercel.app/api?username=tak6831&theme=dracula&show_icons=true&hide=stars)
