@@ -10,8 +10,8 @@
   - WebFlux
   - Kafka
   - MSA
-  - https://github.com/CodeCheckIn
-  - http://bitmoiapp.com.s3-website-us-east-1.amazonaws.com/home?tab=krw
+  - https://gomtak.tistory.com/
+  
 - 📫 How to reach me: ...
   - tak6831@gmail.com
   - <a href="mailto:tak6831@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tak6831@gmail.com"/></a>
