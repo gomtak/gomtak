@@ -7,6 +7,7 @@
   - NFT Market Place
 
 - 🌱 I’m currently learning ...
+  - Solidity
   - WebFlux
   - Kafka
   - MSA
