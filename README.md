@@ -8,9 +8,8 @@
 
 - 🌱 I’m currently learning ...
   - Solidity
-  - WebFlux
-  - Kafka
-  - MSA
+  - GO
+  - Kotlin
   - https://gomtak.tistory.com/
   
 - 📫 How to reach me: ...
