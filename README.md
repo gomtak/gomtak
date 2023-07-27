@@ -10,7 +10,6 @@
   - Solidity
   - GO
   - Kotlin
-  - https://gomtak.tistory.com/
   
 - 📫 How to reach me: ...
   - tak6831@gmail.com
