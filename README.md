@@ -4,12 +4,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
-  - NFT Market Place
+  - LMS
 
 - 🌱 I’m currently learning ...
-  - Solidity
-  - GO
-  - Kotlin
+  - Next.js v14
   
 - 📫 How to reach me: ...
   - tak6831@gmail.com
