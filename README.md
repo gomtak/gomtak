@@ -7,7 +7,7 @@
   - LMS
 
 - 🌱 I’m currently learning ...
-  - Next.js v14
+  - kotlin
   
 - 📫 How to reach me: ...
   - tak6831@gmail.com
