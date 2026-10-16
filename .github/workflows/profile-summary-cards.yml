@@ -16,8 +16,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # 개인 액세스 토큰(PAT). 만료되면 401 로 실패한다 — 재발급 후 이 시크릿만 갈아 끼운다.
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
+          # 기본 제공 토큰 — 만료가 없다. 공개 활동만 집계된다(비공개까지 넣으려면 PAT 시크릿으로 교체).
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 9
